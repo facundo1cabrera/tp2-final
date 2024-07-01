@@ -5,7 +5,7 @@
 
 2- correr el comando `npm install` para bajar las dependencias
 
-3- ejecutar el projecto con `npm run dev`
+3- ejecutar el projecto con `npm run start`
 
 3- consumir los endpoints
 
